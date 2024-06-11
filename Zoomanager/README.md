@@ -17,10 +17,10 @@
    <img src="assets\instructions3.PNG" height="300px"/>
 
 3. Esta es la estructura de tu proyecto:
-4. 
+
    <img src="assets\schema.PNG" height="300px"/>
 
-5. Suba en el siguiente orden los siguientes componentes:
+4. Suba en el siguiente orden los siguientes componentes:
    
     3.1 Objects:
 
