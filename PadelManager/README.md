@@ -13,7 +13,7 @@
 
    y auténtifiquese de tal forma que parezca en la parte inferior PadelManagerBackup.
 
-   <img src="assets\instructions3.png" height="100px"/>
+   <img src="assets\instructions3.PNG" height="300px"/>
 
 3. Suba los siguientes componentes:
    
@@ -50,6 +50,8 @@
     5.2 Pareja
 
     5.3 Partido 
+
+<img src="assets\schema.PNG" height="300px"/>
 
 
 

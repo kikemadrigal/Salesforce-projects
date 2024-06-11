@@ -1,18 +1,41 @@
-# Salesforce DX Project: Next Steps
+# Como subir este proyecto a tu playground
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+1. Crea un playground, obtén su usuario, contraseña y URL:
 
-## How Do You Plan to Deploy Your Changes?
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
-## Configure Your Salesforce DX Project
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+2. Escriba en la terminal o CMD "sf org login web -r url -s -a NombreProyecto", en mi caso:
 
-## Read All About It
+   sf org login web -r https://....trailblaze.my.salesforce.com -s -a ClinicaVeterinaria
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+   y auténtifiquese de tal forma que parezca en la parte inferior ClinicaVeterinaria.
+
+   
+3. Suba los siguientes componentes:
+   
+    3.1 Objects:
+
+
+    3.2 BrandingSets
+
+    3.3 Contentassets
+
+    3.4 QuickActions
+
+
+
+    3.5 Tabs
+
+    3.6 Applications
+
+    3.7 Permissionsets
+
+
+4. Aplique el permissionset subido al usuariario logeado
+   4.1 sf org assign permset -n ClinicaVeterinaria
+
+5. Importe los datos de la carpeta .\assets\WE_...
+
+
+
