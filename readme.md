@@ -24,13 +24,13 @@ Puedes aprender sobre safelsforce en esta web: <a href="https://trailhead.salesf
    
 <img src="SportManager/assets/Captura1.PNG" height="300px" />
 
-<a href="">Más información</a> 
+<a href="https://github.com/kikemadrigal/Salesforce-projects/blob/main/SportManager/readme.md">Más información</a> 
 
 4. Zoomanager
 
 <img src="Zoomanager/assets/Captura1.PNG" height="300px" />
 
-<a href="">Más información</a> 
+<a href="https://github.com/kikemadrigal/Salesforce-projects/blob/main/Zoomanager/README.md">Más información</a> 
 
 
 En este artículo se describe el proceso completo del copiado de un playground o sandbox a otro: https://sf.tipolisto.es/copia-tu-playground/
@@ -40,8 +40,11 @@ En este artículo se describe el proceso completo del copiado de un playground o
 2. Clone o descargue el proyecto que desee:
 
    2.1 Clinica veterinaria
+
    2.2 Sport Manager
+
    2.3 Padel Manager
+   
    2.4 Zoo Manager
 
 3. Estudie el esquema de la base de datos para ir deployeando los objetos con sus relacciones en el orden correcto.
