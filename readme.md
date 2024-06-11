@@ -1,6 +1,37 @@
 # Proyectos para practicar salesforce
 
-En este artículo se describe el proceso completo del copiado de un playground o sandbox a otro: https://sf.tipolisto.es/tipos-de-paginas/
+## Que es salesforce
+
+<a href="https://trailhead.salesforce.com/es">Salesforce </a>es una plataforma en la nube que te permite crear aplicaciones orientadas a los clientes (un rollo de amrketing, leads, oportunidades, enviarle ofertas, ir sacando informes para ver como va la cosa, etc), en realidad es un programa normal en la nube que te permite llevar tu empresa y vender cosas online.
+
+## Los proyectos
+
+1. Clinica veterinaria
+
+<img src="ClinicaVeterinaria/assets/Captura1.PNG" height="300px" />
+
+<a href="">Más información</a> 
+
+2. Padel Manager
+
+<img src="PadelManager/assets/Captura1.PNG" height="300px" />
+
+<a href="">Más información</a> 
+
+3. SportManager
+   
+<img src="SportManager/assets/Captura1.PNG" height="300px" />
+
+<a href="">Más información</a> 
+
+4. Zoomanager
+
+<img src="Zoomanager/assets/Captura1.PNG" height="300px" />
+
+<a href="">Más información</a> 
+
+
+En este artículo se describe el proceso completo del copiado de un playground o sandbox a otro: https://sf.tipolisto.es/copia-tu-playground/
 
 1. Cree su playground o sandbox y obtengo su usuario, su contrasña y la URL
 
