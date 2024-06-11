@@ -14,9 +14,13 @@
 
    y auténtifiquese de tal forma que aparezca en la parte inferior ZooManagerBackup.
 
-   <img src="assets\instructions3.png" height="100px"/>
+   <img src="assets\instructions3.PNG" height="300px"/>
 
-3. Suba en el siguiente orden los siguientes componentes:
+3. Esta es la estructura de tu proyecto:
+4. 
+   <img src="assets\schema.PNG" height="300px"/>
+
+5. Suba en el siguiente orden los siguientes componentes:
    
     3.1 Objects:
 
@@ -38,6 +42,8 @@
 
 5. Importe los datos de la carpeta .\assets\WE_00DWU000005TMTo2AO_1
    con Data import Wizard
+
+   <img src="assets\instructions4.PNG" height="300px"/>
 
     5.1 Pais
 

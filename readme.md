@@ -2,7 +2,9 @@
 
 ## Que es salesforce
 
-<a href="https://trailhead.salesforce.com/es">Salesforce </a>es una plataforma en la nube que te permite crear aplicaciones orientadas a los clientes (un rollo de amrketing, leads, oportunidades, enviarle ofertas, ir sacando informes para ver como va la cosa, etc), en realidad es un programa normal en la nube que te permite llevar tu empresa y vender cosas online.
+<a href="https://www.salesforce.com/es/" target="_blanck">Salesforce </a>es una plataforma en la nube que te permite crear aplicaciones orientadas a los clientes (un rollo de marketing, leads, oportunidades, enviarle ofertas, ir sacando informes para ver como va la cosa, etc), en realidad es un programa normal en la nube que te permite llevar tu empresa y vender cosas online.
+
+Puedes aprender sobre safelsforce en esta web: <a href="https://trailhead.salesforce.com/es">trailhead</a>
 
 ## Los proyectos
 
@@ -10,13 +12,13 @@
 
 <img src="ClinicaVeterinaria/assets/Captura1.PNG" height="300px" />
 
-<a href="">Más información</a> 
+<a href="https://github.com/kikemadrigal/Salesforce-projects/blob/main/ClinicaVeterinaria/README.md">Más información</a> 
 
 2. Padel Manager
 
 <img src="PadelManager/assets/Captura1.PNG" height="300px" />
 
-<a href="">Más información</a> 
+<a href="https://github.com/kikemadrigal/Salesforce-projects/blob/main/PadelManager/README.md">Más información</a> 
 
 3. SportManager
    
