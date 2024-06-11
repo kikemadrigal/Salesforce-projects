@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Nuevo_Compact_Jugadores</fullName>
+    <fields>Name</fields>
+    <fields>Posicion__c</fields>
+    <fields>Genero__c</fields>
+    <label>Nuevo Compact Jugadores</label>
+</CompactLayout>

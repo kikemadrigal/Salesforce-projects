@@ -1,0 +1,6 @@
+lightning-card {
+    max-height: 400px;
+    object-fit: contain;
+    align-items: center;
+    text-align: center;
+}

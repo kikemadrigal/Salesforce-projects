@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Nuevo_Jugador_Comapct_Loyout</fullName>
+    <fields>Nombre__c</fields>
+    <fields>Apellidos__c</fields>
+    <fields>Tipo__c</fields>
+    <fields>Dorsal__c</fields>
+    <fields>Pais__c</fields>
+    <label>Nuevo Jugador Comapct Loyout</label>
+</CompactLayout>

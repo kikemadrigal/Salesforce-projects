@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Andalucía</fullName>
+        <default>false</default>
+        <label>Andalucía</label>
+    </customValue>
+    <customValue>
+        <fullName>Aragón</fullName>
+        <default>false</default>
+        <label>Aragón</label>
+    </customValue>
+    <customValue>
+        <fullName>Barcelona</fullName>
+        <default>false</default>
+        <label>Barcelona</label>
+    </customValue>
+    <customValue>
+        <fullName>Canarias</fullName>
+        <default>false</default>
+        <label>Canarias</label>
+    </customValue>
+    <customValue>
+        <fullName>Cantabria</fullName>
+        <default>false</default>
+        <label>Cantabria</label>
+    </customValue>
+    <customValue>
+        <fullName>Castilla-La Mancha</fullName>
+        <default>false</default>
+        <label>Castilla-La Mancha</label>
+    </customValue>
+    <customValue>
+        <fullName>Castilla y León</fullName>
+        <default>false</default>
+        <label>Castilla y León</label>
+    </customValue>
+    <customValue>
+        <fullName>Cataluña</fullName>
+        <default>false</default>
+        <label>Cataluña</label>
+    </customValue>
+    <customValue>
+        <fullName>Ciudad Autónoma de Ceuta</fullName>
+        <default>false</default>
+        <label>Ciudad Autónoma de Ceuta</label>
+    </customValue>
+    <customValue>
+        <fullName>Ciudad Autónoma de Melilla</fullName>
+        <default>false</default>
+        <label>Ciudad Autónoma de Melilla</label>
+    </customValue>
+    <customValue>
+        <fullName>Comunidad de Madrid</fullName>
+        <default>false</default>
+        <label>Comunidad de Madrid</label>
+    </customValue>
+    <customValue>
+        <fullName>Comunidad Foral de Navarra</fullName>
+        <default>false</default>
+        <label>Comunidad Foral de Navarra</label>
+    </customValue>
+    <customValue>
+        <fullName>Comunidad Valenciana</fullName>
+        <default>false</default>
+        <label>Comunidad Valenciana</label>
+    </customValue>
+    <customValue>
+        <fullName>Extremadura</fullName>
+        <default>false</default>
+        <label>Extremadura</label>
+    </customValue>
+    <customValue>
+        <fullName>Galicia</fullName>
+        <default>false</default>
+        <label>Galicia</label>
+    </customValue>
+    <customValue>
+        <fullName>Illes Balears</fullName>
+        <default>false</default>
+        <label>Illes Balears</label>
+    </customValue>
+    <customValue>
+        <fullName>La Rioja</fullName>
+        <default>false</default>
+        <label>La Rioja</label>
+    </customValue>
+    <customValue>
+        <fullName>Pais Vasco</fullName>
+        <default>false</default>
+        <label>Pais Vasco</label>
+    </customValue>
+    <customValue>
+        <fullName>Principado de Asturias</fullName>
+        <default>false</default>
+        <label>Principado de Asturias</label>
+    </customValue>
+    <customValue>
+        <fullName>Región de Murcia</fullName>
+        <default>false</default>
+        <label>Región de Murcia</label>
+    </customValue>
+    <masterLabel>Poblacion</masterLabel>
+    <sorted>true</sorted>
+</GlobalValueSet>

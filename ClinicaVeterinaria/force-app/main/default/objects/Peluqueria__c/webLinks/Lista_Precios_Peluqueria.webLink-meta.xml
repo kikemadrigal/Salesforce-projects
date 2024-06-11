@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lista_Precios_Peluqueria</fullName>
+    <availability>online</availability>
+    <description>Archivo de texto con la lista de precios de la peluquería</description>
+    <displayType>massActionButton</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>600</height>
+    <linkType>url</linkType>
+    <masterLabel>Lista Precios Peluqueria</masterLabel>
+    <openType>sidebar</openType>
+    <protected>false</protected>
+    <requireRowSelection>true</requireRowSelection>
+    <url>/sfc/p/d2000000EkPZ/a/d200000000rF/qktsLRnJuy5OTav5oAhG1zpPiOxD9pBiRa8IJvALqjk</url>
+</WebLink>

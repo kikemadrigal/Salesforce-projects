@@ -1,0 +1,9 @@
+/*
+    Ver: https://www.lightningdesignsystem.com/ 
+    Para la alineación: https://www.lightningdesignsystem.com/utilities/alignment/
+*/
+
+lightning-carousel-image {
+    max-height: 800px;
+    object-fit: contain;
+}

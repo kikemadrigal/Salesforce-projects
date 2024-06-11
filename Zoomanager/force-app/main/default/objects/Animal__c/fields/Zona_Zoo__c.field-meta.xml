@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Zona_Zoo__c</fullName>
+    <externalId>false</externalId>
+    <label>Zona Zoo</label>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Ártico</fullName>
+                <default>false</default>
+                <label>Ártico</label>
+            </value>
+            <value>
+                <fullName>Bosque</fullName>
+                <default>false</default>
+                <label>Bosque</label>
+            </value>
+            <value>
+                <fullName>Cordillera de los Andes</fullName>
+                <default>false</default>
+                <label>Cordillera de los Andes</label>
+            </value>
+            <value>
+                <fullName>Desierto</fullName>
+                <default>false</default>
+                <label>Desierto</label>
+            </value>
+            <value>
+                <fullName>Montaña</fullName>
+                <default>false</default>
+                <label>Montaña</label>
+            </value>
+            <value>
+                <fullName>Océano</fullName>
+                <default>false</default>
+                <label>Océano</label>
+            </value>
+            <value>
+                <fullName>Pradera africana</fullName>
+                <default>false</default>
+                <label>Pradera africana</label>
+            </value>
+            <value>
+                <fullName>Sabana africana</fullName>
+                <default>false</default>
+                <label>Sabana africana</label>
+            </value>
+            <value>
+                <fullName>Selva tropical</fullName>
+                <default>false</default>
+                <label>Selva tropical</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

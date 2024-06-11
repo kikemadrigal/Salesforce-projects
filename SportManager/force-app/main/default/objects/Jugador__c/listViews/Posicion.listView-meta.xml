@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Posicion</fullName>
+    <columns>Tipo__c</columns>
+    <columns>Apellidos__c</columns>
+    <columns>Dorsal__c</columns>
+    <columns>Pais__c</columns>
+    <filterScope>Mine</filterScope>
+    <filters>
+        <field>Tipo__c</field>
+        <operation>contains</operation>
+        <value>Portero,Defensa Central,Defensa Lateral,Delantero</value>
+    </filters>
+    <label>Posicion</label>
+</ListView>

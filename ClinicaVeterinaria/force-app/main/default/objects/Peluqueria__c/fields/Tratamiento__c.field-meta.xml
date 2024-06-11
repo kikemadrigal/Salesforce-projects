@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tratamiento__c</fullName>
+    <externalId>false</externalId>
+    <label>Tratamiento</label>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Antipulgas</fullName>
+                <default>false</default>
+                <label>Antipulgas</label>
+            </value>
+            <value>
+                <fullName>Pelo blanbo</fullName>
+                <default>false</default>
+                <label>Pelo blanbo</label>
+            </value>
+            <value>
+                <fullName>Pieles sensibles</fullName>
+                <default>false</default>
+                <label>Pieles sensibles</label>
+            </value>
+            <value>
+                <fullName>Colonia</fullName>
+                <default>false</default>
+                <label>Colonia</label>
+            </value>
+            <value>
+                <fullName>Encamación</fullName>
+                <default>false</default>
+                <label>Encamación</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

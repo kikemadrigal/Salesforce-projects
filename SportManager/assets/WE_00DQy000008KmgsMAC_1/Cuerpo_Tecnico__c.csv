@@ -1,0 +1,5 @@
+"Id","OwnerId","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","LastActivityDate","Nombre__c","Apellidos__c","Club__c","Tipo__c"
+"a08Qy000006FmbyIAC","005Qy000005GwqBIAS","0","CP-0003","2024-05-21 15:14:24","005Qy000005GwqBIAS","2024-05-21 15:14:24","005Qy000005GwqBIAS","2024-05-21 15:14:24","","Xavi","Hernandez","a05Qy000005H4E1IAK","Primer entrenador"
+"a08Qy000006FrWqIAK","005Qy000005GwqBIAS","0","CP-0001","2024-05-21 15:10:47","005Qy000005GwqBIAS","2024-05-21 15:13:52","005Qy000005GwqBIAS","2024-05-21 15:13:52","","Carlo","Ancelotti","a05Qy000005H4FdIAK","Primer entrenador"
+"a08Qy000006Fs1SIAS","005Qy000005GwqBIAS","0","CP-0004","2024-05-21 15:14:51","005Qy000005GwqBIAS","2024-05-21 15:14:51","005Qy000005GwqBIAS","2024-05-21 15:14:51","","Oscar","Hernández","a05Qy000005H4E1IAK","Segundo entrenador"
+"a08Qy000006FtQYIA0","005Qy000005GwqBIAS","0","CP-0002","2024-05-21 15:13:36","005Qy000005GwqBIAS","2024-05-21 15:13:36","005Qy000005GwqBIAS","2024-05-21 15:13:36","","Davide","Ancelotti","a05Qy000005H4FdIAK","Segundo entrenador"

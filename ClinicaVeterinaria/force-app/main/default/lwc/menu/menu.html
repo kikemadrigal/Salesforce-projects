@@ -1,0 +1,16 @@
+<template>
+    <div class="slds-grid slds-gutters slds-align_absolute-center">
+        <lightning-card class="slds-col" title="Mascotas">
+            <lightning-button label="Ir a mascotas" slot="actions" onclick={navigateToMascotaHome}></lightning-button>
+            <img src={menu_mascotas_image} />
+        </lightning-card>
+        <lightning-card class="slds-col" title="Propietarios">
+            <lightning-button label="Ir a Propietarios" slot="actions" onclick={navigateToPropietarioHome}></lightning-button>
+            <img src={menu_propietarios_image} />
+        </lightning-card>
+        <lightning-card class="slds-col" title="Visitas">
+            <lightning-button label="Ir a Visitas" slot="actions" onclick={navigateToVisitaHome}></lightning-button>
+            <img src={menu_visitas_image} />
+        </lightning-card>
+    </div>
+</template>

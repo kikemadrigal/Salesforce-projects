@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Nuevo_Compact_Loyout</fullName>
+    <fields>Name</fields>
+    <fields>Pais__c</fields>
+    <fields>Presidente__c</fields>
+    <fields>Vicepresidente__c</fields>
+    <label>Nuevo Compact Loyout</label>
+</CompactLayout>
