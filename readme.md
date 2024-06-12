@@ -2,7 +2,7 @@
 
 ## Que es salesforce
 
-<a href="https://www.salesforce.com/es/" target="_blanck">Salesforce </a>es una plataforma en la nube que te permite crear aplicaciones orientadas a los clientes (un rollo de marketing, leads, oportunidades, enviarle ofertas, ir sacando informes para ver como va la cosa, etc), en realidad es un programa normal en la nube que te permite llevar tu empresa y vender cosas online.
+<a href="https://www.salesforce.com/es/" target="_blanck">Salesforce </a>es una plataforma en la nube que te permite crear aplicaciones orientadas a los clientes (un rollo de marketing, leads, oportunidades, enviarle ofertas, ir sacando informes para ver como va la cosa, etc), en realidad es un programa normal en la nube que te permite llevar tu empresa.
 
 Puedes aprender sobre safelsforce en esta web: <a href="https://trailhead.salesforce.com/es">trailhead</a>
 
